@@ -7,6 +7,7 @@ import genericLibraries.BaseClass;
 
 public class FirstTest extends BaseClass
 {
+	//first test script
  @Test
  public void firstTest() throws InterruptedException
  {
